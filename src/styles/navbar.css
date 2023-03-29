@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    display: flex;
+    justify-content: space-around;
+    background-color: darkblue;
+    
+}
+.navbar-nav{
+    margin-top: 30px;
+}
+.navbar-nav  li{
+
+    display: inline;
+}
+.navbar-nav  li a{
+    text-decoration: none;
+    padding: 5px 20px;
+    color: lightblue;
+    margin-left: 150px;
+}
+.container-fluid img{
+    margin-left: 0px;
+ 
+  margin-top: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px ;
+}

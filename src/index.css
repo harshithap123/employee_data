@@ -1,0 +1,93 @@
+.content-heading{
+  text-align: center;
+}
+
+.table{
+  width: 1600px;
+  margin: auto;
+  text-align: center;
+}
+
+.emp{
+  height: 680px;
+  width: 500px;
+  background-color: rgb(75, 117, 185);
+  margin-left: 500px;
+  padding: 10px 20px;
+  margin-top: 10px;
+}
+.emp h1{
+  text-align: center;
+}
+.emp input{
+  margin-top: 10px;
+  padding: 6px;
+  width: 250px;
+  margin-left: 20px;
+}
+.one{
+margin-left: 60px;
+}
+.two{
+  margin-left: 60px;
+  }
+.six{
+  margin-left: 25px;
+}
+.dropdown{
+  margin-left: 55px;
+  margin-top: 20px;
+}
+.dropdown select{
+width: 265px;
+height: 40px;
+margin-left: 18px;
+}
+
+.four{
+  margin-left:74px;
+}
+.gender{
+  margin-top: 30px;
+  margin-left: 55px;
+}
+.gender input{
+  height: 15px;
+}
+
+.course{
+  margin-top: 20px;
+  margin-left: 60px;
+}
+.course input{
+  height: 17px;
+}
+.course .c1{
+  margin-left: -41px;
+}
+
+.image{
+margin-left: 60px; 
+
+}
+.image input{
+border-radius: 10px;
+outline: none;
+border: none;
+padding: 10px;
+}
+.btn{
+ 
+  margin-left: 200px;
+  margin-top: 20px;
+  background-color: black;
+  color: white;
+  padding: 5px 20px;
+  border-radius: 2px;
+}
+.btn:hover{
+  background-color: rgb(177, 252, 252);
+  color: black;
+  border: none;
+  border-radius: 2px;
+}

@@ -1,0 +1,59 @@
+{
+  "emp": [
+    {
+      "name": "Harshith",
+      "email": "hp@gmail.com",
+      "mobile": "9875462139",
+      "gender": "Male",
+      "designation": "hr",
+      "course": "MCA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfo6bLksaQH20itGMBZjRcLRojYHKHRe6onw&usqp=CAU",
+      "date": "2023-03-22",
+      "id": 1
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTadQgnoBsttVzIsek68McA951BGQJ-yEpc1Q&usqp=CAU",
+      "name": "karan",
+      "email": "wegwg@gmail.com",
+      "mobile": 9865552588,
+      "designation": "HR",
+      "gender": "Male",
+      "course": "BE",
+      "date": "2023-03-22",
+      "id": 3
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3lJS7NA0tLRanF9qAuzvusvO_x4ZzkzpoOQ&usqp=CAU",
+      "name": "shamik",
+      "email": "wgewrg@gmail.com",
+      "mobile": 9864534525,
+      "designation": "QA",
+      "gender": "Male",
+      "course": "BE",
+      "date": "2023-03-19",
+      "id": 4
+    },
+    {
+      "name": "Lara",
+      "email": "sdgwg@gmail.com",
+      "mobile": "8618678989",
+      "gender": "Female",
+      "course": "BE",
+      "designation": "hr",
+      "date": "2023-02-02",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTieqTNIgS8Etz4zYd-G1QKv5lepxHG52FdwA&usqp=CAU",
+      "id": 5
+    },
+    {
+      "name": "hari",
+      "email": "h@gmail.com",
+      "mobile": "9876543210",
+      "gender": "Male",
+      "course": "BCA",
+      "designation": "hr",
+      "date": "2023-03-11",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfo6bLksaQH20itGMBZjRcLRojYHKHRe6onw&usqp=CAU",
+      "id": 6
+    }
+  ]
+}
